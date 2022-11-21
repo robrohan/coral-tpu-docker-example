@@ -1,3 +1,4 @@
+# 3.8 is important, 3.10 wont work (in Nov 2022)
 from python:3.8
 
 COPY . .

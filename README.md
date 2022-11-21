@@ -4,7 +4,7 @@ Basic example of how to use a Coral TPU from within docker. None of the code her
 
 ## Running
 
-Follow the installation instructions to get the TPU working on the host system. Then
+Follow the [installation instructions](https://coral.ai/docs/) to get the TPU working on the host system. Then
 
 ```
 make build
